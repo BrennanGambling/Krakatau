@@ -1,0 +1,6 @@
+[submodule "rt-jar"]
+	path = rt-jar
+	url = git@github.com:BrennanGambling/rt-jar.git
+[submodule "android-jar"]
+	path = android-jar
+	url = git@github.com:BrennanGambling/android-jar.git
